@@ -1,2 +1,2 @@
 # FlexboxCSS
- Aprendendo a construir layouts responsivos na Alura.
+ Aprendendo a construir layouts responsivos usando Flexbox na Alura.
